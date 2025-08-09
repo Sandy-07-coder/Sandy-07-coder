@@ -32,12 +32,20 @@ Currently learning Data Structures and Algorithms and enjoying the process of so
 
 ## 💼 Projects
 
-Here are a few front-end projects I built using React and TailwindCSS:
+Here are a few projects I built using React and TailwindCSS:
 
-- 🌐 **Modern Business Landing Page** — [GitHub Repo](https://github.com/Sandy-07-coder/React-Landing-Page-TailwindCSS) | [Live Demo](https://react-landing-page-tailwind-css-jet.vercel.app/)  
+- 🌐 **Modern Business Landing Page** — [GitHub Repo](https://github.com/Sandy-07-coder/React-Landing-Page-TailwindCSS) | [Live Demo](https://react-landing-page-tailwind-css-jet.vercel.app/)  <br>
   A sleek, modern landing page built with React, Tailwind CSS, and Framer Motion. Features a responsive design, smooth animations, a dynamic pricing section, testimonial carousel, and a newsletter form — designed to showcase a business or product professionally.
 
+- ⛅ **Weather App** - [Github Repo](https://github.com/Sandy-07-coder/Weather-App) | [Live Demo](https://weather-app-phi-seven-26.vercel.app/) <br>
+    A modern, responsive web application built using React and Tailwind CSS. It fetches real-time weather data from the OpenWeather API and displays it in a clean and user-friendly interface.
+
 ---
+
+## 💻 Open-Source contribuition
+
+- 🛠️ invenio-app-rdm/CERN - [Github Rep](https://github.com/inveniosoftware/invenio-app-rdm) | [issue link](https://github.com/inveniosoftware/invenio-app-rdm/issues/3137) <br>
+  Contributed to Invenio-App-RDM, an open-source repository framework by CERN. I have solved a issue regarding the UI in their CompactStats.js file, the issue is about number formatting according to different regions by getting the user's system or browser language by i18next library.
 
 ## 📊 LeetCode Stats
 
