@@ -2,7 +2,8 @@
 
 ## 🧑‍💻 About Me
 I'm a Computer Science Engineering student from Chennai, India. Passionate about open-source and on a mission to become a software engineer! 🚀  
-Currently learning Data Structures and Algorithms and enjoying the process of solving coding challenges.
+Currently learning Data Structures and Algorithms and enjoying the process of solving coding challenges.  
+I'm currently trying to pair with AI to boost my development speed and efficiency.
 
 ---
 
@@ -17,6 +18,9 @@ Currently learning Data Structures and Algorithms and enjoying the process of so
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 
 **Tools & IDEs:**  
 
@@ -24,7 +28,10 @@ Currently learning Data Structures and Algorithms and enjoying the process of so
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?logo=intellij-idea&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
+![Qodo](https://img.shields.io/badge/Qodo-2563EB?logo=qodo&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-8DA0FC?logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+
 
 💻 Comfortable using the Linux CLI.
 
