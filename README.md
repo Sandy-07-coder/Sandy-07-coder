@@ -34,6 +34,9 @@ Currently learning Data Structures and Algorithms and enjoying the process of so
 
 Here are a few projects I built using React and TailwindCSS:
 
+- 📚 **BookNest** — [GitHub Repo](https://github.com/Sandy-07-coder/BookNest) | [Live Demo](https://book-nest-jade.vercel.app/)  <br>
+  A CRUD web application to manage your personal book collection. Built with React, Tailwind CSS, Firebase Authentication, and Firestore as a serverless backend. Users can add, view, edit, and delete books through a responsive dashboard with interactive modals.
+
 - 🌐 **Modern Business Landing Page** — [GitHub Repo](https://github.com/Sandy-07-coder/React-Landing-Page-TailwindCSS) | [Live Demo](https://react-landing-page-tailwind-css-jet.vercel.app/)  <br>
   A sleek, modern landing page built with React, Tailwind CSS, and Framer Motion. Features a responsive design, smooth animations, a dynamic pricing section, testimonial carousel, and a newsletter form — designed to showcase a business or product professionally.
 
