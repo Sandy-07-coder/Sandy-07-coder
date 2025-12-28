@@ -84,7 +84,7 @@ I enjoy solving problems, building scalable systems, and pairing with AI tools t
 
 ---
 
-## 📊 DSA & Problem Solving
+## 📊 LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Santhosh_Sandy_07?theme=dark&font=Baloo&ext=activity)
 
