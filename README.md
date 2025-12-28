@@ -1,63 +1,90 @@
 # 👋 Hi there! I'm Santhosh
 
 ## 🧑‍💻 About Me
-I'm a Computer Science Engineering student from Chennai, India. Passionate about open-source and on a mission to become a software engineer! 🚀  
-Currently learning Data Structures and Algorithms and enjoying the process of solving coding challenges.  
-I'm currently trying to pair with AI to boost my development speed and efficiency.
+I'm a Computer Science Engineering student from Chennai, India, passionate about building real-world software and contributing to open source. 🚀  
+Currently focused on **Backend Development (Spring Boot)**, **Web Development**, **DevOps fundamentals**, and **Data Structures & Algorithms**.
+
+I enjoy solving problems, building scalable systems, and pairing with AI tools to improve development speed and code quality.
 
 ---
 
 ## 🌱 Skills & Technologies
 
-**Languages & Frontend:**  
+### 🚀 Technologies
+- Backend Development (Spring, Spring Boot, REST APIs)
+- Security & Authentication (Spring Security, JWT)
+- Full Stack Web Development (MERN)
+- Containerization & DevOps (Docker, Kubernetes)
+- State Management (Zustand)
+- API Design, Testing & Debugging
+- Data Structures & Algorithms
 
+### 🧑‍💻 Languages
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
+
+### 🛠 Tools, Platforms & Security
+![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-
-**Tools & IDEs:**  
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
 
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?logo=intellij-idea&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
-![Qodo](https://img.shields.io/badge/Qodo-2563EB?logo=qodo&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Cursor](https://img.shields.io/badge/Cursor-111827?logo=cursor&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-8DA0FC?logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
+### 🔐 Cyber & Networking Tools
+![Nmap](https://img.shields.io/badge/Nmap-00457C?logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?logo=burpsuite&logoColor=white)
 
-💻 Comfortable using the Linux CLI.
+💻 Comfortable working with Linux CLI environments.
 
 ---
 
 ## 💼 Projects
 
-Here are a few projects I built using React and TailwindCSS:
+- 🎓 **EnrollMate** — [GitHub](https://github.com/Sandy-07-coder/EnrollMate) | [Live](https://enroll-mate.vercel.app/)  
+  A modern course enrollment and timetable framing system built by students, for students.  
+  Enables course selection, faculty assignment, automatic timetable conflict detection, and visual schedule management.  
+  **Tech Stack:** MERN, Zustand, Docker
 
-- 📚 **BookNest** — [GitHub Repo](https://github.com/Sandy-07-coder/BookNest) | [Live Demo](https://book-nest-jade.vercel.app/)  <br>
-  A CRUD web application to manage your personal book collection. Built with React, Tailwind CSS, Firebase Authentication, and Firestore as a serverless backend. Users can add, view, edit, and delete books through a responsive dashboard with interactive modals.
+- 📚 **BookNest** — [GitHub](https://github.com/Sandy-07-coder/BookNest) | [Live](https://book-nest-jade.vercel.app/)  
+  A CRUD web application for managing personal book collections with authentication and a responsive dashboard.  
+  **Tech:** React, Tailwind CSS, Firebase
 
-- 🌐 **Modern Business Landing Page** — [GitHub Repo](https://github.com/Sandy-07-coder/React-Landing-Page-TailwindCSS) | [Live Demo](https://react-landing-page-tailwind-css-jet.vercel.app/)  <br>
-  A sleek, modern landing page built with React, Tailwind CSS, and Framer Motion. Features a responsive design, smooth animations, a dynamic pricing section, testimonial carousel, and a newsletter form — designed to showcase a business or product professionally.
+- 🌐 **Modern Business Landing Page** — [GitHub](https://github.com/Sandy-07-coder/React-Landing-Page-TailwindCSS) | [Live](https://react-landing-page-tailwind-css-jet.vercel.app/)  
+  A sleek landing page featuring animations, pricing sections, and responsive layouts.  
+  **Tech:** React, Tailwind CSS, Framer Motion
 
-- ⛅ **Weather App** - [Github Repo](https://github.com/Sandy-07-coder/Weather-App) | [Live Demo](https://weather-app-phi-seven-26.vercel.app/) <br>
-    A modern, responsive web application built using React and Tailwind CSS. It fetches real-time weather data from the OpenWeather API and displays it in a clean and user-friendly interface.
+- ⛅ **Weather App** — [GitHub](https://github.com/Sandy-07-coder/Weather-App) | [Live](https://weather-app-phi-seven-26.vercel.app/)  
+  A responsive weather application fetching real-time data from the OpenWeather API.  
+  **Tech:** React, Tailwind CSS
 
 ---
 
-## 💻 Open-Source contribuition
+## 🌍 Open Source Contributions
 
-- 🛠️ invenio-app-rdm/CERN - [Github Rep](https://github.com/inveniosoftware/invenio-app-rdm) | [issue link](https://github.com/inveniosoftware/invenio-app-rdm/issues/3137) <br>
-  Contributed to Invenio-App-RDM, an open-source repository framework by CERN. I have solved a issue regarding the UI in their CompactStats.js file, the issue is about number formatting according to different regions by getting the user's system or browser language by i18next library.
+- 🛠 **Invenio-App-RDM (CERN)** — [Repo](https://github.com/inveniosoftware/invenio-app-rdm) | [Issue](https://github.com/inveniosoftware/invenio-app-rdm/issues/3137)  
+  Fixed a UI issue related to number formatting across different locales by leveraging browser/system language detection using **i18next**.
 
-## 📊 LeetCode Stats
+---
+
+## 📊 DSA & Problem Solving
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Santhosh_Sandy_07?theme=dark&font=Baloo&ext=activity)
 
@@ -67,11 +94,9 @@ Here are a few projects I built using React and TailwindCSS:
 
 ## 📫 Connect with Me
 
-I love connecting with like-minded developers, open-source contributors, and anyone passionate about tech. Feel free to reach out!
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/santhosh2673/)
 [![Gmail](https://img.shields.io/badge/Gmail-Email-red?logo=gmail&logoColor=white)](mailto:santhoshprogrammer07@gmail.com)
 
 ---
 
-Feel free to connect for **collaborations**, **project ideas**, or just to say hi! 😊
+⭐ Feel free to connect for **collaborations**, **open-source contributions**, or **project discussions**!
